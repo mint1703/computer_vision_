@@ -1,0 +1,5 @@
+  File "/home/jazzy/cv_ws/install/real_gauge_detector/lib/python3.12/site-packages/real_gauge_detector/real_gauge_detector.py", line 93
+    cv2.putText(frame, "Manometr finded, 
+                       ^
+SyntaxError: unterminated string literal (detected at line 93)
+

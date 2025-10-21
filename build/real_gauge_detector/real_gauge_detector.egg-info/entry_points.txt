@@ -1,0 +1,2 @@
+[console_scripts]
+real_gauge_detector = real_gauge_detector.real_gauge_detector:main

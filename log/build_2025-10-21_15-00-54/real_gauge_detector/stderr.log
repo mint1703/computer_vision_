@@ -1,0 +1,2 @@
+/home/jazzy/cv_ws/install/real_gauge_detector/lib/python3.12/site-packages/real_gauge_detector/real_gauge_detector.py:93: SyntaxWarning: 'str' object is not callable; perhaps you missed a comma?
+  cv2.putText(frame, "Manometr finded"

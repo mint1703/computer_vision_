@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/real_gauge_detector/real_gauge_detector.egg-info/PKG-INFO
+../../build/real_gauge_detector/real_gauge_detector.egg-info/SOURCES.txt
+../../build/real_gauge_detector/real_gauge_detector.egg-info/dependency_links.txt
+../../build/real_gauge_detector/real_gauge_detector.egg-info/entry_points.txt
+../../build/real_gauge_detector/real_gauge_detector.egg-info/requires.txt
+../../build/real_gauge_detector/real_gauge_detector.egg-info/top_level.txt
+../../build/real_gauge_detector/real_gauge_detector.egg-info/zip-safe
+launch/detector.launch.py
+real_gauge_detector/__init__.py
+real_gauge_detector/real_gauge_detector.py
+resource/real_gauge_detector
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
