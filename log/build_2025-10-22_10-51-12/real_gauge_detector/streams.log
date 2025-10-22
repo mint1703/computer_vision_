@@ -1,0 +1,24 @@
+[0.629s] Invoking command in '/home/jazzy/cv_ws/src/real_gauge_detector': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jazzy/cv_ws/build/real_gauge_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jazzy/cv_ws/install/real_gauge_detector/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/real_gauge_detector build --build-base /home/jazzy/cv_ws/build/real_gauge_detector/build install --record /home/jazzy/cv_ws/build/real_gauge_detector/install.log --single-version-externally-managed install_data
+[0.830s] running egg_info
+[0.844s] writing ../../build/real_gauge_detector/real_gauge_detector.egg-info/PKG-INFO
+[0.846s] writing dependency_links to ../../build/real_gauge_detector/real_gauge_detector.egg-info/dependency_links.txt
+[0.847s] writing entry points to ../../build/real_gauge_detector/real_gauge_detector.egg-info/entry_points.txt
+[0.847s] writing requirements to ../../build/real_gauge_detector/real_gauge_detector.egg-info/requires.txt
+[0.847s] writing top-level names to ../../build/real_gauge_detector/real_gauge_detector.egg-info/top_level.txt
+[0.875s] reading manifest file '../../build/real_gauge_detector/real_gauge_detector.egg-info/SOURCES.txt'
+[0.875s] writing manifest file '../../build/real_gauge_detector/real_gauge_detector.egg-info/SOURCES.txt'
+[0.875s] running build
+[0.875s] running build_py
+[0.876s] copying real_gauge_detector/real_gauge_detector.py -> /home/jazzy/cv_ws/build/real_gauge_detector/build/lib/real_gauge_detector
+[0.876s] running install
+[0.880s] running install_lib
+[0.897s] copying /home/jazzy/cv_ws/build/real_gauge_detector/build/lib/real_gauge_detector/real_gauge_detector.py -> /home/jazzy/cv_ws/install/real_gauge_detector/lib/python3.12/site-packages/real_gauge_detector
+[0.898s] byte-compiling /home/jazzy/cv_ws/install/real_gauge_detector/lib/python3.12/site-packages/real_gauge_detector/real_gauge_detector.py to real_gauge_detector.cpython-312.pyc
+[0.900s] running install_data
+[0.900s] running install_egg_info
+[0.916s] removing '/home/jazzy/cv_ws/install/real_gauge_detector/lib/python3.12/site-packages/real_gauge_detector-0.0.0-py3.12.egg-info' (and everything under it)
+[0.916s] Copying ../../build/real_gauge_detector/real_gauge_detector.egg-info to /home/jazzy/cv_ws/install/real_gauge_detector/lib/python3.12/site-packages/real_gauge_detector-0.0.0-py3.12.egg-info
+[0.916s] running install_scripts
+[1.015s] Installing real_gauge_detector script to /home/jazzy/cv_ws/install/real_gauge_detector/lib/real_gauge_detector
+[1.015s] writing list of installed files to '/home/jazzy/cv_ws/build/real_gauge_detector/install.log'
+[1.042s] Invoked command in '/home/jazzy/cv_ws/src/real_gauge_detector' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jazzy/cv_ws/build/real_gauge_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jazzy/cv_ws/install/real_gauge_detector/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/real_gauge_detector build --build-base /home/jazzy/cv_ws/build/real_gauge_detector/build install --record /home/jazzy/cv_ws/build/real_gauge_detector/install.log --single-version-externally-managed install_data
